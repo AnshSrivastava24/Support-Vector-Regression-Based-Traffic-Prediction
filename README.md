@@ -113,5 +113,5 @@ The model demonstrated high accuracy and robustness, making it suitable for real
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MEANCAPE19/Support-Vector-Regression-Based-Traffic-Prediction.git
+   git clone https://github.com/AnshSrivastava24/Support-Vector-Regression-Based-Traffic-Prediction.git
    cd Support-Vector-Regression-Based-Traffic-Prediction
